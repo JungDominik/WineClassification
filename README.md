@@ -1,5 +1,8 @@
 # WineClassification
 
+![image](https://user-images.githubusercontent.com/29613804/159071144-69bdaa4c-88b6-40f0-89cb-4fc7eb4a5ea5.png)
+
+
 ### Comparison of different classification methods on a dataset of wines.
 
 ### Description
